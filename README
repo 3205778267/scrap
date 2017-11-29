@@ -1,0 +1,27 @@
+total 100
+ 4 bin
+ 4 boot
+ 4 cdrom
+ 0 dev
+12 etc
+ 4 home
+ 0 initrd.img
+ 0 initrd.img.old
+ 4 lib
+ 4 lib64
+16 lost+found
+ 4 media
+ 4 mnt
+ 4 opt
+ 0 proc
+ 4 root
+ 0 run
+12 sbin
+ 4 snap
+ 4 srv
+ 0 sys
+ 4 tmp
+ 4 usr
+ 4 var
+ 0 vmlinuz
+ 0 vmlinuz.old
